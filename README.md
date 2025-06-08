@@ -1,12 +1,30 @@
-# React + Vite
+React eCommerce Dashboard with Redux
+This is a responsive and modern eCommerce dashboard built with React, Redux for state management, and Recharts for data visualization. The project uses Tailwind CSS for styling and provides a clean, user-friendly interface to monitor sales, orders, visits, and transactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+State management with Redux for scalable and maintainable data flow
+Interactive charts (LineChart, BarChart) using Recharts library
+Detailed transactions table with multiple payment sources including Visa, Paypal, Spotify, Google, Apple, and Behance
+Tooltips and smooth animations to enhance user experience
+Styled entirely with Tailwind CSS for rapid UI development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React (Functional components & hooks)
+Redux Toolkit for efficient state management
+Tailwind CSS
+Recharts for charts and graphs
+React Icons & Material UI Icons
 
-## Expanding the ESLint configuration
+Installation
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(all data damidata)
+username:furkan
+password:123
+
+About
+This dashboard is a practical project demonstrating how to build a responsive and maintainable admin panel with React and Redux. It's ideal for developers wanting to learn about integrating state management with complex UI components like charts and tables.
+
+
