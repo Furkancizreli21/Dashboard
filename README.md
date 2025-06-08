@@ -17,14 +17,17 @@ Redux Toolkit for efficient state management
 Tailwind CSS
 Recharts for charts and graphs
 React Icons & Material UI Icons
+![3](https://github.com/user-attachments/assets/6adc6427-27e4-4490-b604-2b25b1ab69a8)
 
 #### Installation
 npm install
 npm run dev
+![4](https://github.com/user-attachments/assets/490a731e-dad0-4036-b421-6c1cbddae793)
 
 (all data damidata)
 username:furkan
 password:123
+![5](https://github.com/user-attachments/assets/d60e441a-dacc-4bb4-943c-7018ec5d385a)
 
 About
 This dashboard is a practical project demonstrating how to build a responsive and maintainable admin panel with React and Redux. It's ideal for developers wanting to learn about integrating state management with complex UI components like charts and tables.
