@@ -1,7 +1,7 @@
-React eCommerce Dashboard with Redux
+# React eCommerce Dashboard with Redux
 This is a responsive and modern eCommerce dashboard built with React, Redux for state management, and Recharts for data visualization. The project uses Tailwind CSS for styling and provides a clean, user-friendly interface to monitor sales, orders, visits, and transactions.
 
-Features
+## Features
 
 State management with Redux for scalable and maintainable data flow
 Interactive charts (LineChart, BarChart) using Recharts library
@@ -9,14 +9,14 @@ Detailed transactions table with multiple payment sources including Visa, Paypal
 Tooltips and smooth animations to enhance user experience
 Styled entirely with Tailwind CSS for rapid UI development
 
-Technologies Used
+## Technologies Used
 React (Functional components & hooks)
 Redux Toolkit for efficient state management
 Tailwind CSS
 Recharts for charts and graphs
 React Icons & Material UI Icons
 
-Installation
+#### Installation
 npm install
 npm run dev
 
